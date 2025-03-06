@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/natalievu/Visual Studio Code/cs1-lab2-starter/main'
+relocations:     []
+...
